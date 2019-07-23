@@ -1,11 +1,5 @@
 # Data
-p12tar9112
-arcos_all_washpost.tsv.gz
-arcos-tx-statewide-itemized.tsv
-overdose_data_1999-2017_0.xls
-p12tar9112.pdf
-TXPopulation_County_2010Census.tsv
-ARCOS-handbook-full.pdf
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
